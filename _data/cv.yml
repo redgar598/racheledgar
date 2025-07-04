@@ -1,50 +1,44 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Martin Bulla
-    - name: Date of Birth
-      value: 31st August 1981
-    - name: Languages
-      value: English, German, Czech <em>native</em>, Slovak, Russian <em>basic</em>
-
 - title: Experience
   type: time_table
   contents:
-    - title: Assistent
-      institution: Czech University of Life Sciences Prague, Czechia
-      year: 2024 - present
-    - title: Postdoc
-      institution: Max Planck Institute for Biological Intelligence, Germany
-      year: 2023 - 2024
-    - title: Postdoc
-      institution: Czech University of Life Sciences Prague, Czechia
-      year: 2017 - 2024  
-    - title: Postdoc
-      institution: Max Planck Institute for Ornithology, Germany
-      year: 2019 - 2022
-    - title: Postdoc
-      institution: NIOZ Royal Netherlands Institute for Sea Research, the Netherlands
-      year: 2016 - 2019
+    - title: Postdoctoral Fellow – MacParland and Bader Labs
+      institution: University Health Network – University of Toronto, Canada
+      year: 2022 – Present
+      description: |
+        Research Focus:
+        - Single-cell gene expression of human liver
+        - Creation of an atlas of the healthy human pediatric liver
+        - Prediction of transplant outcomes from liver single-cell RNAseq
+
+    - title: Research Assistant – Kobor Lab
+      institution: Centre for Molecular Medicine and Therapeutics – University of British Columbia, Canada
+      year: 2014 – 2018
+      description: |
+        Research Focus:
+        - Human epigenetics using array technology (450K)
+        - Investigating the use of blood as a surrogate for brain tissue in epigenetics
+        - Performing EWAS on early life social status and DNA methylation
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Max Planck Institute for Ornithology, Seewiesen
-      year: 2017
-    - title: MSc
-      institution: Uni. of Natural Resources & Applied Life Sciences, Vienna
-      year: 2010
-    - title: Mgr
-      institution: Charles University, Prague
-      year: 2006
-    - title: BSc
-      institution: State University of New York, Prague
-      year: 2004
-    - title: Graduation
-      institution: Gymnasium Arabska, Prague
-      year: 2000  
-    - title: Graduation
-      institution: Kendall Senior High School, United States
-      year: 1999  
+    - title: Ph.D. – Biological Science
+      institution: EMBL-EBI / University of Cambridge
+      year: 2018 – 2022
+      description: |
+        Thesis: Multiomics Of The Human Gut Toward Insight Into Childhood Inflammatory Bowel Disease Pathogenesis  
+        Supervisors: Drs. Daniel Zerbino and Paul Flicek
+
+    - title: M.Sc. – Genome Science and Technology
+      institution: University of British Columbia
+      year: 2012 – 2014
+      description: |
+        Thesis: Meta-analysis of Human DNA Methylation Data  
+        Supervisor: Dr. Paul Pavlidis
+
+    - title: B.Sc. – Honours Specialization in Genetics
+      institution: University of Western Ontario
+      year: 2008 – 2012
+      description: |
+        Fourth Year Thesis: Using the Mouse Diversity Genotyping Array to compare the burden and nature of somatic mutations in the cerebellum of harlequin mice  
+        Supervisor: Dr. Kathleen Hill
